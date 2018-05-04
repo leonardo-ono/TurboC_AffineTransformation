@@ -1,6 +1,10 @@
 # TurboC_AffineTransformation
 
-Very simple Affine Transformation implemented in Turbo C.
+Very simple Affine Transformation implemented in Turbo C. It uses VGA (13h) graphic mode.
+
+Target OS: DOS
+Compiler: Turbo C 2.01
+
 
 ## Screenshots
 
