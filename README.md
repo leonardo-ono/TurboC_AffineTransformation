@@ -9,4 +9,4 @@ Compiler: Turbo C 2.01
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/leonardo-ono/TurboC_AffineTransformation/master/screenshot.png)
+![Scaling, rotating and translating a sprite :)](https://raw.githubusercontent.com/leonardo-ono/TurboC_AffineTransformation/master/screenshot.png)
